@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158012196368",
+    "project_id": "fyp-safe-zone",
+    "storage_bucket": "fyp-safe-zone.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158012196368:android:476fb271dbda429da2ac95",
+        "android_client_info": {
+          "package_name": "com.miraclehouseai.safe_zone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHBFoxOZQB74GQzaI-_Pw5DDIj9IKP43M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
